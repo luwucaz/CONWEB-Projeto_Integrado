@@ -30,7 +30,7 @@ header {
   padding-right: 60px;
 }
 
-li a {
+#menu li a {
   color: white;
   text-transform: uppercase;
   text-decoration: none;
@@ -39,6 +39,11 @@ li a {
 header h1 {
   font-size: 5vw;
   text-align: center;
+}
+
+header span {
+  display: flex;
+  justify-content: center;
 }
 
 #cadastrar {
@@ -131,6 +136,28 @@ footer h1 {
 
 #informacoes {
   display: flex;
-  justify-content: space-between;
-  padding: 0 400px;
+  justify-content: center;
+  gap: 30px;
+}
+
+#creditos {
+  text-align: center;
+  background-color: #102716;
+  padding: 20px;
+  color: white;
+}
+
+#creditos p {
+  margin: 0;
+  margin-bottom: 8px;
+}
+
+#creditos a {
+  color: darkseagreen;
+}
+
+#creditos ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
