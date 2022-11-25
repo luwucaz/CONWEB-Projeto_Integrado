@@ -4,7 +4,7 @@ body {
 }
 
 header {
-  background-image: url(./images/kay-ingulli-QhB2HYaFEO0-unsplash.jpg);
+  background-image: url(../images/kay-ingulli-QhB2HYaFEO0-unsplash.jpg);
   background-repeat: no-repeat;
   background-position: center;
   color: white;
@@ -36,16 +36,6 @@ header {
   text-decoration: none;
 }
 
-header h1 {
-  font-size: 5vw;
-  text-align: center;
-}
-
-header span {
-  display: flex;
-  justify-content: center;
-}
-
 #cadastrar {
   background: linear-gradient(99.52deg, #9cfeb7 0%, #446850 97.3%);
   border-radius: 42.2054px;
@@ -57,6 +47,17 @@ header span {
   border-radius: 42.2054px;
   padding: 21px 52px;
 }
+
+header h1 {
+  font-size: 5vw;
+  text-align: center;
+}
+
+header span {
+  display: flex;
+  justify-content: center;
+}
+
 main {
   margin: 0;
 }
@@ -90,12 +91,13 @@ main {
   position: absolute;
   bottom: 60px;
   text-align: center;
+  text-shadow: 2px 2px 4px #000000;
 }
 
 #imagem1 {
   width: 350px;
   height: 580px;
-  background-image: url(./images/mulher.png);
+  background-image: url(../images/mulher.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -104,7 +106,7 @@ main {
 #imagem2 {
   width: 350px;
   height: 580px;
-  background-image: url(./images/christin-hume-mfB1B1s4sMc-unsplash.jpg);
+  background-image: url(../images/christin-hume-mfB1B1s4sMc-unsplash.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -113,15 +115,14 @@ main {
 #imagem3 {
   width: 350px;
   height: 580px;
-  background-image: url(./images/elly-filho-prFmxl4FPP4-unsplash.jpg);
+  background-image: url(../images/elly-filho-prFmxl4FPP4-unsplash.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 footer {
-  background-image: url(./images/giovana-gomes-HOtqiF2u9x0-unsplash.jpg);
-  /* filter: brightness(30%); */
+  background-image: url(../images/giovana-gomes-HOtqiF2u9x0-unsplash.jpg);
   background-repeat: no-repeat;
   background-position: center;
   color: white;
