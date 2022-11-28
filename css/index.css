@@ -88,6 +88,7 @@ main {
 }
 
 .imagem_com_texto p {
+  padding: 0 50px;
   position: absolute;
   bottom: 60px;
   text-align: center;
@@ -119,6 +120,39 @@ main {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+}
+
+#imagem4 {
+  width: 350px;
+  height: 580px;
+  background-image: url(../images/elly-filho-prFmxl4FPP4-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#imagem5 {
+  width: 350px;
+  height: 580px;
+  background-image: url(../images/elly-filho-prFmxl4FPP4-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#imagem6 {
+  width: 350px;
+  height: 580px;
+  background-image: url(../images/elly-filho-prFmxl4FPP4-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#integrantes {
+  background-color: #102716;
+  color: white;
+  padding: 100px;
 }
 
 footer {
