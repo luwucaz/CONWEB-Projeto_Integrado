@@ -10,7 +10,7 @@ Esta foi uma pequena página desenvolvido pelo nosso grupo para a disciplina de 
 
 ## Links úteis 🔗
 
-- A página funcionando pode ser visualizada clicando [aqui](https://luwucaz.github.io/projetointegrado_nowrecycle/)
+- A página funcionando pode ser visualizada clicando [aqui](https://luwucaz.github.io/CONWEB-Projeto_Integrado/)
 - O protótipo feito no Figma pode ser encontrado por [este link](https://bit.ly/3GoMou9)
 
 ### Credits
