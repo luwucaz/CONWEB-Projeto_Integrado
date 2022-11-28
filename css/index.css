@@ -98,7 +98,7 @@ main {
 #imagem1 {
   width: 350px;
   height: 580px;
-  background-image: url(../images/mulher.png);
+  background-image: url(../images/mulher.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -125,7 +125,7 @@ main {
 #imagem4 {
   width: 350px;
   height: 580px;
-  background-image: url(../images/elly-filho-prFmxl4FPP4-unsplash.jpg);
+  background-image: url(../images/rosto2.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -134,7 +134,7 @@ main {
 #imagem5 {
   width: 350px;
   height: 580px;
-  background-image: url(../images/elly-filho-prFmxl4FPP4-unsplash.jpg);
+  background-image: url(../images/rosto1.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
