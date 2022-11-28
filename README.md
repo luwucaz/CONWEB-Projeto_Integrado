@@ -1,6 +1,6 @@
 # NowRecycle ♻️
 
-Esta foi uma pequena página desenvolvido pelo nosso grupo para a disciplina de Desenvolvimento Web. O site tem como intuito fornecer uma coleta de materiais que iriam ao descarte comum para serem recicladas.
+Esta foi uma pequena página desenvolvido pelo nosso grupo para a disciplina de Desenvolvimento Web. O site tem como intuito fornecer uma coleta de materiais que iriam ao descarte comum para serem reciclados.
 
 ## Integrantes 🔎
 
