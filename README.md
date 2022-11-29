@@ -10,7 +10,8 @@ Esta foi uma pequena página desenvolvido pelo nosso grupo para a disciplina de 
 
 ## Links úteis 🔗
 
-- A página funcionando pode ser visualizada clicando [aqui](https://luwucaz.github.io/CONWEB-Projeto_Integrado/)
+- A página funcionando pelo Github pode ser visualizada clicando [aqui](https://luwucaz.github.io/CONWEB-Projeto_Integrado/)
+- A página pelo servidor da UVV pode ser vista [aqui](https://disciplinas.uvv.br/cc1m/g8/)
 - O protótipo feito no Figma pode ser encontrado por [este link](https://bit.ly/3GoMou9)
 
 ### Credits
