@@ -160,6 +160,7 @@ footer {
   background-image: url(../images/giovana-gomes-HOtqiF2u9x0-unsplash.jpg);
   background-repeat: no-repeat;
   background-position: center;
+  background-attachment: fixed;
   color: white;
   padding: 50px;
 }
